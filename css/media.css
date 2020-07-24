@@ -1,0 +1,202 @@
+@media only screen and (max-width: 1366px)
+{
+	.sec-3-inner-second h2 {font-size: 20px}
+	.sec-3-inner-first{
+		text-align: center;}
+		.sec-3-inner-first img {width: 76%;}
+}
+
+
+
+@media only screen and (max-width: 1200px)
+{
+	.logodiv img {width: 40%}
+    .banner-wrap h1 {font-size: 33px;}
+    .banner-wrap h2 {font-size: 39px;}
+    .banner-div {padding: 90px 0 281px 0;}
+    .sec-first h1 {color: #fff;margin-bottom: 25px;font-size: 35px;}
+    .sec-3-inner-second h2{font-size: 20px}
+    .inner-offer {text-align: center;margin: 10px 10px;}
+    .contacts {padding: 60px 0 40px 0;}
+
+}
+
+@media only screen and (max-width: 900px)
+{
+	.menudiv ul li {
+    margin-left: 25px;}
+    .menudiv ul li a{
+font-size: 16px;
+    }
+    .logodiv img {
+    width: 30%;}
+    .banner-div {
+    padding: 13px 0 270px 0;}
+
+    .banner-wrap h3 a {
+    font-size: 15px;
+    padding: 8px 14px;}
+    .banner-wrap h1 {
+    font-size: 22px;}
+    .banner-wrap h2 {
+    font-size: 28px;margin: 10px 0 16px 0;}
+    .sec-3 {
+    padding: 82px 0 50px 0;}
+    .sec-first h1 {
+    margin-bottom: 8px;
+    font-size: 25px;}
+    .sec-first h2 {
+    margin-bottom: 14px;
+    font-size: 28px;}
+    .sec-3-inner-second h2 {
+    font-size: 15px;line-height: 25px}
+    .Our-offer {
+    padding: 78px 0 40px 0;}
+    .offer-heading {
+    font-size: 25px;
+    margin-bottom: 18px;}
+    .inner-offer h2 {
+    font-size: 27px;
+    margin-top: 12px;}
+    .inner-offer p {
+    font-size: 15px;
+    margin-top: 10px;
+    line-height: 20px;}
+    .contacts {
+    padding: 46px 0 35px 0}
+    .con-inn {
+    font-size: 25px;
+    margin-bottom: 20px;}
+    .inner-con span {
+    font-size: 38px;}
+    .inner-con h4,.inner-con h5{
+    font-size: 15px;}
+
+
+
+
+}
+
+@media only screen and (max-width: 767px)
+{
+	.menudiv {display: none;}
+	#menu-btn{display: block;}
+	#menu ul li a {
+    font-size: 14px;}
+    #menu ul li {
+    padding: 6px;}
+    #menu {
+    width: 128px;}
+    #menu-btn {
+    top: 175px;
+    right: 30px;}
+    .logodiv img {
+    width: 20%;}
+
+}
+
+@media only screen and (max-width: 500px)
+{
+	.logodiv img {width: 10%}
+	.sec-3-inner {
+    display: flex;
+    flex-wrap: wrap;}
+    .sec-3-inner-second h2 {
+    font-size: 14px;
+    line-height: 22px;}
+    .sec-3-inner-second{
+    	margin-top: 15px;
+    	    padding: 0 30px;
+    }
+    .sec-3 {
+    padding: 50px 0 50px 0;}
+    .Our-offer {
+    padding: 50px 0 40px 0}
+    .offer-content {
+    flex-wrap: wrap;}
+    .inner-con {
+    width: 100%;
+    margin-bottom: 50px;}
+    .contact-wrap {
+    flex-wrap: wrap;}
+    .contact-wrap div:nth-child(3){margin-bottom: 0}
+    .footer-wrapper div:nth-child(1) ul li a {
+    color: #615b5b;
+    font-size: 13px;}
+    .footer-wrapper .footer-wrap2 span {
+    font-size: 20px;}
+    .footer-wrapper {
+    padding: 8px 0;}
+    footer p{font-size: 15px}
+    .inner-con span {
+    font-size: 60px;}
+    #menu {
+    width: 90px;}
+
+#menu ul li a {
+    font-size: 10px;}
+    #menu-btn {
+    top: 175px;
+    right: 8px;}
+    .banner-div {
+    padding: 0px 0 240px 0;}
+    .banner-wrap {
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    top: 185px;}
+    .banner-wrap h2 {
+    font-size: 24px;}
+    .banner-wrap h1 {
+    font-size: 19px;}
+    .sec-first h1 {
+    font-size: 20px;}
+    .sec-first h2 {
+    margin-bottom: 14px;
+    font-size: 24px;}
+    .offer-heading {
+    font-size: 24px;
+    margin-bottom: 0px;}
+    .inner-offer h2 {
+    font-size: 22px;}
+    footer p {
+    font-size: 12px;
+    margin-top: 14px;}
+    .footer-wrapper div:nth-child(1) ul li a {
+    color: #615b5b;
+    font-size: 12px;}
+    .inner-con span {
+    font-size: 50px;}
+
+
+
+}
+
+@media only screen and (max-width: 330px)
+{
+    .footer-wrapper .footer-wrap2 span:nth-child(1) {
+    margin-right: 10px;}
+    .footer-wrapper .footer-wrap2 span:nth-child(2) {
+    margin-right: 10px;}
+    .footer-wrapper .footer-wrap1 ul li:nth-child(1) {
+    padding-right: 10px;}
+    .footer-wrapper .footer-wrap1 ul li:nth-child(2) {
+    padding-right: 10px;}
+    .inner-con span {
+    font-size: 35px;}
+    .inner-con h4, .inner-con h5 {
+    font-size: 12px;font-weight: 100}
+    .banner-wrap h3 a {
+    font-size: 12px;
+    padding: 7px 12px}
+    .banner-wrap h2 {
+    font-size: 20px;}
+    .banner-wrap h1 {
+    font-size: 17px;}
+    .sec-3-inner-second h2 {
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 100;}
+    .sec-3 {
+    padding: 50px 0 22px 0;}
+}
